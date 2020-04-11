@@ -26,7 +26,7 @@ complete -c gulp -l verify -d "Verify project package.json"
 complete -c gulp -l tasks -s T -d "Print the tasks"
 complete -c gulp -l tasks-simple -d "Print the tasks in plaintext"
 complete -c gulp -l tasks-json -d "Print the tasks in json"
-complete -x -c gulp -l tasks-depth -l dpeth -d "Depth of tasks"
+complete -x -c gulp -l tasks-depth -l depth -d "Depth of tasks"
 complete -c gulp -l compact-tasks -d "Print only top tasks"
 complete -c gulp -l sort-tasks
 complete -c gulp -l color
