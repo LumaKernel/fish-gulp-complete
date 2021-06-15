@@ -7,14 +7,14 @@ Task completion and flag completion.
 ### With [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher add LumaKernel/fish-gulp-complete
+fisher install LumaKernel/fish-gulp-complete
 ```
 
 ## License
 
 [Unlicnse](LICENSE)
 
-## Thanks
+## Credits
 
 * [fish shell](https://github.com/fish-shell/fish-shell)
   * I reference the completion of `make`.
